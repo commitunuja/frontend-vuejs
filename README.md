@@ -18,31 +18,32 @@
 
 **1. HTML**
 
-- 📚 [Pengantar]()
-- 📚 [Struktur HTML & Layouting]()
-- 📚 [Modifikasi Tag Header & Footer]()
-- 📚 [Coming soon]()
+- 📚 [Pengantar](html/pengantar.md)
+- 📚 [Struktur HTML & Layouting](#)
+- 📚 [Modifikasi Tag Header & Footer](#)
+- 📚 [Coming soon](#)
 
 **2. CSS**
 
-- 📚 [Pengantar]()
-- 📚 [Pengenalan Bootstrap]()
-- 📚 [Coming soon]()
+- 📚 [Pengantar](css/pengantar.md)
+- 📚 [Pengenalan Bootstrap](#)
+- 📚 [Coming soon](#)
 
 **3. Javascript**
 
-- 📚 [Pengantar]()
-- 📚 [Formulir dan Javascript]()
-- 📚 [Coming soon]()
+- 📚 [Pengantar](javascript/pengantar.md)
+- 📚 [Formulir dan Javascript](#)
+- 📚 [Coming soon](#)
 
 **5. VueJS**
 
-- 📚 [Sass, Vue.js dan Vuetify]()
+- 📚 [Sass, Vue.js dan Vuetify](vuejs/pengantar.md)
+- 📚 [Coming soon](#)
 
 **4. TES**
 
-- 📚 [Project Studi Kasus]()
-- 📚 [Final Project]()
+- 📚 [Project Studi Kasus](tes/project1.md)
+- 📚 [Final Project](#)
 
 #
 
