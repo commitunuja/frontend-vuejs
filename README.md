@@ -31,16 +31,17 @@
 
 **3. Javascript**
 
+- 📚 [Pengantar]()
 - 📚 [Formulir dan Javascript]()
 - 📚 [Coming soon]()
-
-**4. TES**
-
-- 📚 [Project Studi Kasus]()
 
 **5. VueJS**
 
 - 📚 [Sass, Vue.js dan Vuetify]()
+
+**4. TES**
+
+- 📚 [Project Studi Kasus]()
 - 📚 [Final Project]()
 
 <p style="text-align: center">
