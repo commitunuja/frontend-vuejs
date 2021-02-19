@@ -1,21 +1,48 @@
-# Repositori Pembuatan Modul Frontend
+# 🌍 Repositori Pembuatan Modul Frontend
 
-Dosen Pembimbing :
+#### 🕵️‍♀️ Dosen Pembimbing
 
-- Kamil Malik, M.Kom
-- Gulpi Qorik Oktagalu Pratamasunu, M.Kom
+- [Kamil Malik, M.Kom](https://t.me/kamilmaliki)
+- [Gulpi Qorik Oktagalu Pratamasunu, M.Kom](https://t.me/pratamasunu)
 
-Focusing on :
+#### 💕 Kontributor
+
+- [Zainal Abidin](https://t.me/zaiinhs)
+- [Dzun Nurroin](https://t.me/dzun_nn)
+
+#### Focusing on :
 
 - [VueJS](https://vuejs.org/)
 
 ### Sub Materi Vue JS :
-- HTML
-- CSS
-- Struktur HTML & Layouting
-- Modifikasi Tag Header & Footer
-- Formulir dan Javascript
-- Pengenalan Bootstrap
-- Project Studi Kasus
-- Sass, Vue.js dan Vuetify
-- Final Project
+
+**1. HTML**
+
+- 📚 [Pengantar]()
+- 📚 [Struktur HTML & Layouting]()
+- 📚 [Modifikasi Tag Header & Footer]()
+- 📚 [Coming soon]()
+
+**2. CSS**
+
+- 📚 [Pengantar]()
+- 📚 [Pengenalan Bootstrap]()
+- 📚 [Coming soon]()
+
+**3. Javascript**
+
+- 📚 [Formulir dan Javascript]()
+- 📚 [Coming soon]()
+
+**4. TES**
+
+- 📚 [Project Studi Kasus]()
+
+**5. VueJS**
+
+- 📚 [Sass, Vue.js dan Vuetify]()
+- 📚 [Final Project]()
+
+<p style="text-align: center">
+<a href="https://github.com/commitunuja" style="color:gray">&copy; build with 💝 by <b>CommIT Developer.</b></a>
+</p>
