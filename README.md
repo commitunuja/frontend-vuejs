@@ -46,6 +46,4 @@
 
 #
 
-<p style="text-align: center">
-<a href="https://github.com/commitunuja" style="color:gray">&copy; build with 💝 by <b>CommIT Developer.</b></a>
-</p>
+&copy; build with 💝 by <a href="https://github.com/commitunuja"><b>CommIT Developer.</b></a>
