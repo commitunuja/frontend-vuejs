@@ -18,10 +18,11 @@
 
 **1. HTML**
 
+- 📚 [Sejarah](html/sejarah.md)
 - 📚 [Pengantar](html/pengantar.md)
-- 📚 [Struktur HTML & Layouting](#)
-- 📚 [Modifikasi Tag Header & Footer](#)
-- 📚 [Coming soon](#)
+- 📚 Struktur HTML & Layouting
+- 📚 Modifikasi Tag Header & Footer
+- 📚 Coming soon
 
 **2. CSS**
 
