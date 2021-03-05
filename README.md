@@ -20,7 +20,7 @@
 
 - 📚 [Sejarah](html/sejarah.md)
 - 📚 [Pengantar](html/pengantar.md)
-- 📚 Struktur HTML & Layouting
+- 📚 [Struktur HTML & Layouting](html/struktur-HTML.md)
 - 📚 Modifikasi Tag Header & Footer
 - 📚 Coming soon
 
