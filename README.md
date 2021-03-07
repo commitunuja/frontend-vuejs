@@ -26,8 +26,9 @@
 **2. CSS**
 
 - 📚 [Pengantar]
+- 📚 [Import CSS]
+- 📚 [Layouting dengan CSS]
 - 📚 [Pengenalan Bootstrap]
-- 📚 [Coming soon]
 
 **3. Javascript**
 
