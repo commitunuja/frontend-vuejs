@@ -2,7 +2,7 @@
 
 Secara garis besar seperti ini :
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
