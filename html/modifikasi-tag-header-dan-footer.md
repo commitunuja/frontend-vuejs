@@ -2,7 +2,7 @@
 
 Sebelum versi `HTML5`, para developer umumnya menggunakan tag `<div>` dengan atribut `id` atau `kelas` untuk memisahkan bagian-bagian struktur dalam halaman HTML seperti `header, footer,` dan `sidebar`.
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -65,7 +65,7 @@ Berikut adalah pembahasan beberapa tag `HTML5` yang ditujukan untuk membuat stru
 
 Tag `<header>` digunakan untuk bagian halaman web yang merupakan header. kode nya berada dibagian atas di dalam kode `<body>`.
 
-```
+```html
 <header>
   <h1>Judul Website</h1>
   <img src=”logo_website.png” />
@@ -76,7 +76,7 @@ Tag `<header>` digunakan untuk bagian halaman web yang merupakan header. kode ny
 
 Tag `<nav>` digunakan sebagai _container_ dari menu navigasi. Sebaiknya digunakan untuk menu utama yang dirasa penting seperti pada bagian header.
 
-```
+```html
 <nav>
   <ul>
     <li><a href="#">Home</a></li>
@@ -90,7 +90,7 @@ Tag `<nav>` digunakan sebagai _container_ dari menu navigasi. Sebaiknya digunaka
 
 Tag `<section>` digunakan untuk memisahkan bagian-bagian dari struktur web. Tag ini bisa digunakan sebagai container untuk kumpulan artikel, gallery, atau bagian lain dari halaman web yang perlu pemisahan.
 
-```
+```html
 <section>
   <h1>Judul 1</h1>
    <p>...Kumpulan dari konten...</p>
@@ -105,7 +105,7 @@ Tag `<section>` digunakan untuk memisahkan bagian-bagian dari struktur web. Tag 
 
 Tag `<main>` cocok digunakan untuk menandakan bagian utama dari sebuah halaman. Berbeda dari tag `<section>`, tag `<main>` umumnya hanya digunakan 1 kali untuk bagian paling penting, yang biasanya berupa konten/artikel utama.
 
-```
+```html
 <main>
   <h1>Judul Utama</h1>
   <p>...penjelasan...</p>
@@ -128,7 +128,7 @@ Tag `<main>` cocok digunakan untuk menandakan bagian utama dari sebuah halaman. 
 
 Tag `<article>` bertujuan untuk menampung konten web. Tag ini cocok sebagai container untuk artikel dalam sebuah blog.
 
-```
+```html
 <article>
  <h2>Judul Artikel</h2>
  <p>...penjelasan artikel...</p>
@@ -141,7 +141,7 @@ Tag `<article>` bertujuan untuk menampung konten web. Tag ini cocok sebagai cont
 
 Tag `<aside>` bertujuan untuk menandai bagian web yang bukan berisi konten utama, tetapi memiliki kaitan dengan artikel yang saat ini ditampilkan. Bagian paling pas untuk tag `<aside>` adalah sidebar. Karena pada sidebar bisa terdiri dari berbagai konten yang tidak langsung berkaitan dengan konten utama seperti ’10 artikel terbaru’, atau ‘5 komentar terbaru’. Selain untuk sidebar, tag `<aside>` juga bisa digunakan di dalam artikel untuk menandai bagian tambahan.
 
-```
+```html
 <article>
   <h2>Judul Artikel 1</h2>
   <p>...penjelasan artikel 1...</p>
@@ -157,7 +157,7 @@ Tag `<aside>` bertujuan untuk menandai bagian web yang bukan berisi konten utama
 
 Tag `<footer>` biasannya digunakan pada bagian bawah halaman, dimana kita menampilkan beberapa informasi mengenai website. Walapun penggunaan paling jelas adalah untuk bagian footer halaman (meletakkan copyright, about us, dll), tag ini juga cocok digunakan pada bagian bawah artikel untuk menampung informasi tambahan seperti ‘tentang penulis‘ maupun link untuk share ke sosial media.
 
-```
+```html
 <footer>
   <p>...Footer - Copyright 2021 ...</p>
 </footer>
@@ -165,7 +165,7 @@ Tag `<footer>` biasannya digunakan pada bagian bawah halaman, dimana kita menamp
 
 ### Jadi tampilan Kode di HTML5 Seperti ini :
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
