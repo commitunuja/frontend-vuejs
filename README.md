@@ -26,7 +26,7 @@
 **2. CSS**
 
 - 📚 [Pengantar](css/pengantar.md)
-- 📚 [Import CSS]
+- 📚 [Import CSS](css/import.md)
 - 📚 [Layouting dengan CSS]
 - 📚 [Pengenalan Bootstrap]
 
