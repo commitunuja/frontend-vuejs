@@ -6,6 +6,7 @@ Ada beberapa properti yang akan dibahas di sini :
 
 1. [Display](display.md)
 2. [Dimensi & Overflow](dimensi-overflow.md)
+3. [Box Model](box-model.md)
 
 on progress 🐱‍🏍
 resources : https://www.youtube.com/watch?v=Phn2eN6j0pg&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr
